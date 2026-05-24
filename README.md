@@ -1,9 +1,7 @@
 # NoteForge
-
-AI-powered lecture understanding and automatic notes generation system.
+AI-powered lecture understanding system that converts YouTube lectures into structured revision notes using Whisper and LLMs.
 
 ## Overview
-
 NoteForge is an AI study assistant that converts long educational YouTube lectures into structured revision notes automatically.
 
 The system:

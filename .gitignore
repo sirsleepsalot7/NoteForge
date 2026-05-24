@@ -1,0 +1,7 @@
+venv/
+.env
+downloads/
+audio/
+transcripts/
+notes/
+__pycache__/
